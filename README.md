@@ -18,7 +18,7 @@ I am incredibly driven to learn, constantly looking for ways to improve my craft
 ### 📂 Projects
 
 #### 🚧 In Progress
-* **[SPM](https://github.com/hkha-sama/SPM)** - A store management system built for my mom to handle sales, inventory tracking, profits, and debts.
+* **[SPM](https://github.com/hkha-sama/Song-Phuong-Manager)** - A store management system built for my mom to handle sales, inventory tracking, profits, and debts.
 * **[SAS (Smart Attendance System)](https://github.com/MinhTrietNg/Smart-Attendance-System)** - A system that integrates AI facial recognition to automate school attendance tracking.
 
 #### 🌱 Self-Improvement
